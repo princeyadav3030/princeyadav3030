@@ -1,48 +1,50 @@
-<div style="display: inline-block;">
-  <img align="left" src="https://img.shields.io/badge/Favorite%20Language-Java-007396" />
-</div>
-<div style="display: inline-block;">
-  <img align="left" src="https://img.shields.io/badge/Status-Always%20Online-008000" />
-</div>
-<div style="display: inline-block;">
-  <img align="left" src="https://img.shields.io/badge/Learning%20Something%20New-Always-00BCD4" />
-</div>
-<br><br>
+<div align="center">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prince+Yadav!+🚀;Welcome+to+my+Profile...😇;" />
-</h1>
+<h1>Hey there! I'm PRINCE YADAV</h1>
 
+*“Knowledge Builds Power, Hard Work Creates Success, Never Give Up!”*
 
-### 🔭 I'm interested in:
-- Soch ke batata hu 🤔
+<br>
 
-### 🌱 I’m currently learning:
-- Class 11th (Batch 2026-28) 🎓🚀
-
-### 📫 How to reach me:
-- No ways sorry. 🤐
-
-### ⚡ Fun fact:
-- Yaar yaha to kuch naa milne wala sad 🐍😂
+<!-- Cards Section -->
+<table align="center">
+  <tr>
+    <td align="center" width="400">
+      <img src="https://img.icons8.com/color/48/000000/graduation-cap--v1.png" width="30"/><br>
+      <b>Education</b><br>
+      Class 11th (PCMB) | Batch: 2026-28
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="400">
+      <img src="https://img.icons8.com/color/48/000000/marker--v1.png" width="30"/><br>
+      <b>Location</b><br>
+      Bihar, India 🚩
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="400">
+      <img src="https://img.icons8.com/color/48/000000/birthday-cake--v1.png" width="30"/><br>
+      <b>Birthday</b><br>
+      6 December 💐💖
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="400">
+      <img src="https://img.icons8.com/color/48/000000/engineering--v1.png" width="30"/><br>
+      <b>Skills</b><br>
+      <i>Hehe... Nothing 💀</i>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princeyadav3030/princeyadav3030/output/only-svg/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/princeyadav3030/princeyadav3030/output/only-svg/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
