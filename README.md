@@ -14,13 +14,13 @@
 </h1>
 
 
-### <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="28"/> Education
+### <img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="20"/> Education
 - Class 11th (PCMB) | Batch: 2026-28 📚
 
-### <img src="https://img.icons8.com/color/48/000000/marker--v1.png" width="28"/> Location
+### <img src="https://img.icons8.com/color/48/000000/marker--v1.png" width="20"/> Location
 - Bihar, India 🚩
 
-### <img src="https://img.icons8.com/color/48/000000/birthday-cake.png" width="28"/> Birthday
+###  🎂 Birthday
 - 6 December 💐💖
 
 <br>
@@ -47,4 +47,5 @@
     />
   </picture>
 </div>
+
 
