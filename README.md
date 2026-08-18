@@ -1,50 +1,42 @@
-<div align="center">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+PRINCE+YADAV!+🚀;Welcome+to+my+Profile...😇;" />
+</h1>
 
-<h1>Hey there! I'm PRINCE YADAV</h1>
+<p align="center">
+  <i>“Knowledge Builds Power, Hard Work Creates Success, Never Give Up!”</i>
+</p>
 
-*“Knowledge Builds Power, Hard Work Creates Success, Never Give Up!”*
+---
 
-<br>
+### 🎓 Education
+- Class 11th (PCMB) | Batch: 2026-28 📚
 
-<!-- Cards Section -->
-<table align="center">
-  <tr>
-    <td align="center" width="400">
-      <img src="https://img.icons8.com/color/48/000000/graduation-cap--v1.png" width="30"/><br>
-      <b>Education</b><br>
-      Class 11th (PCMB) | Batch: 2026-28
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="400">
-      <img src="https://img.icons8.com/color/48/000000/marker--v1.png" width="30"/><br>
-      <b>Location</b><br>
-      Bihar, India 🚩
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="400">
-      <img src="https://img.icons8.com/color/48/000000/birthday-cake--v1.png" width="30"/><br>
-      <b>Birthday</b><br>
-      6 December 💐💖
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="400">
-      <img src="https://img.icons8.com/color/48/000000/engineering--v1.png" width="30"/><br>
-      <b>Skills</b><br>
-      <i>Hehe... Nothing 💀</i>
-    </td>
-  </tr>
-</table>
+### 📍 Location
+- Bihar, India 🚩
 
-<br>
+### 🎂 Birthday
+- 6 December 💐💖
+
+### 🛠 Skills
+- Hehe... Nothing 💀
+
+---
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princeyadav3030/princeyadav3030/output/only-svg/github-contribution-grid-snake-dark.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/princeyadav3030/princeyadav3030/output/only-svg/github-contribution-grid-snake.svg" />
-</picture>
-
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/princeyadav3030/princeyadav3030/output/only-svg/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/princeyadav3030/princeyadav3030/output/only-svg/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/princeyadav3030/princeyadav3030/output/only-svg/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </div>
