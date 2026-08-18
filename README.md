@@ -1,10 +1,17 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+PRINCE+YADAV!+🚀;Welcome+to+my+Profile...😇;" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <i>“Knowledge Builds Power, Hard Work Creates Success, Never Give Up!”</i>
-</p>
+<!-- Badges Section -->
+![Favorite Language](https://img.shields.io/badge/Favorite_Language-Java-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Always_Online-brightgreen?style=flat-square)
+![Learning](https://img.shields.io/badge/Learning_Something_New-Always-blue?style=flat-square)
+
+<br>
+
+<h1>Hi There! 👋</h1>
+
+*“Knowledge Builds Power, Hard Work Creates Success, Never Give Up!”*
+
+</div>
 
 ---
 
@@ -27,7 +34,6 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/princeyadav3030/princeyadav3030/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/princeyadav3030/princeyadav3030/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/princeyadav3030/princeyadav3030/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
